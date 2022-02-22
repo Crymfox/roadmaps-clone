@@ -67,105 +67,85 @@ export const upcomingCardDetails = [
 export const videoLinkDetails = [
     {
         title: "All about Array Data Structure",
-        date: "10 minutes",
-        division: "100"
+        date: "10 minutes"
     },
     {
         title: "What are Data Structures?",
-        date: "1 minute",
-        division: "100"
+        date: "1 minute"
     },
     {
         title: "What is Eventual Consistency?",
-        date: "5 minutes",
-        division: "100"
+        date: "5 minutes"
     },
     {
         title: "SSH vs TLS vs SSL",
-        date: "3 minutes",
-        division: "100"
+        date: "3 minutes"
     },
     {
         title: "Asynchronous JavaScript",
-        date: "15 minutes",
-        division: "100"
+        date: "15 minutes"
     },
     {
         title: "Random Number Generators",
-        date: "8 minutes",
-        division: "70"
+        date: "8 minutes"
     },
     {
         title: "Big O Notation",
-        date: "8 minutes",
-        division: "50"
+        date: "8 minutes"
     },
     {
         title: "YAML in Depth",
-        date: "8 minutes",
-        division: "30"
+        date: "8 minutes"
     },
     {
         title: "Floating Point Arithmetic",
-        date: "4 minutes",
-        division: "20"
+        date: "4 minutes"
     },
     {
         title: "What is CAP Theorem?",
-        date: "8 minutes",
-        division: "10"
+        date: "8 minutes"
     },
 ]
 
 export const guideLinkDetails = [
     {
         title: "Async and Defer Script Loading",
-        date: "September 10, 2021",
-        division: "100"
+        date: "September 10, 2021"
     },
     {
         title: "What are Web Vitals?",
-        date: "September 5, 2021",
-        division: "100"
+        date: "September 5, 2021"
     },
     {
         title: "SLIs, SLOs and SLAs",
-        date: "August 31, 2021",
-        division: "100"
+        date: "August 31, 2021"
     },
     {
         title: "What is CI and CD?",
-        date: "July 9, 2021",
-        division: "100"
+        date: "July 9, 2021"
     },
     {
         title: "SSO — Single Sign On",
-        date: "July 1, 2021",
-        division: "100"
+        date: "July 1, 2021"
     },
     {
         title: "OAuth — Open Authorization",
-        date: "June 28, 2021",
-        division: "70"
+        date: "June 28, 2021"
     },
     {
         title: "JWT Authentication",
-        date: "June 20, 2021",
-        division: "50"
+        date: "June 20, 2021"
     },
     {
         title: "Token Based Authentication",
-        date: "June 2, 2021",
-        division: "30"
+        date: "June 2, 2021"
     },
     {
         title: "Session Based Authentication",
-        date: "May 26, 2021",
-        division: "20"
+        date: "May 26, 2021"
     },
     {
         title: "Basic Authentication",
-        date: "May 19, 2021",
-        division: "10"
+        date: "May 19, 2021"
     }
 ]

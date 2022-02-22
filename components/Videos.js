@@ -9,6 +9,7 @@ const Videos = () => {
         <Container>
             <div className=" relative">
                 <h1 className=" text-[#38a169] text-[25px] font-bold mt-14 mb-7">Video Explanations</h1>
+                <div className="absolute w-full h-52 bg-gradient-to-t from-white to-white/30 bottom-0 z-20"></div>
                 {
                     details.videoLinkDetails.map((data, key) => {
                         return (
@@ -17,7 +18,7 @@ const Videos = () => {
                     })
                 }
                 <div className=" grid place-items-center mt-[15px]">
-                    <div className=" absolute bottom-0 z-10">
+                    <div className=" absolute bottom-0 z-20">
                         <button className=" px-5 py-[7px] bg-[#2f855a] text-white text-[11px] rounded-2xl grid relative">
                             <h1 className=" font-extrabold pr-3">VIEW ALL VIDEOS</h1>
                             <div className=" hover:translate-x-1 duration-200 absolute w-full h-full grid place-items-end rounded-2xl">
