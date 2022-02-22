@@ -14,7 +14,7 @@ export default function Home() {
     <div>
       <ShowMenu options={() => setState(" invisible")} status={state} />
       <div className="bg-[#06020c] relative z-0 pb-20">
-        <div className=' absolute w-full -z-10'><div className={` -top-30 blur-[100px] mx-auto rounded-full md:h-96 h-[350px] md:w-96 w-[350px] bg-[radial-gradient(var(--tw-gradient-stops))] from-cyan-400/30 via-cyan-200/10 to-transparent`}></div></div>
+        <div className=' absolute w-full -z-10'><div className={` -top-30 blur-[100px] mx-auto rounded-full md:h-96 h-[320px] md:w-96 w-[320px] bg-[radial-gradient(var(--tw-gradient-stops))] from-cyan-400/30 via-cyan-200/10 to-transparent`}></div></div>
         <main className="top-0 w-full z-10">
           <Navbar options={() => setState(" z-50")}/>
           <Roadmap/>
